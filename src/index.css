@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(89deg, #ffa95e 0%, #0499de 100%);
+}
+
+button {
+  cursor: pointer;
+}
